@@ -1,0 +1,120 @@
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 15 - CV 1/5 - 0.30559369582699514 - For avg. expected 510918.135
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 15 - CV 2/5 - 0.3290418545044777 - For avg. expected 528990.12
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 15 - CV 3/5 - 0.29097435178726233 - For avg. expected 557088.855
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 15 - CV 4/5 - 0.302522397382404 - For avg. expected 518570.95
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 15 - CV 5/5 - 0.28470936848192907 - For avg. expected 486506.11
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 15 - 0.30256833359661367 time elapsed: 16.094889402389526
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 16 - CV 1/5 - 0.3055504144284021 - For avg. expected 510918.135
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 16 - CV 2/5 - 0.3274910760772173 - For avg. expected 528990.12
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 16 - CV 3/5 - 0.28947048856327656 - For avg. expected 557088.855
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 16 - CV 4/5 - 0.300596483173845 - For avg. expected 518570.95
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 16 - CV 5/5 - 0.28347969561417263 - For avg. expected 486506.11
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 16 - 0.3013176315713827 time elapsed: 16.81678342819214
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 17 - CV 1/5 - 0.3070927413871689 - For avg. expected 510918.135
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 17 - CV 2/5 - 0.32998009867225764 - For avg. expected 528990.12
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 17 - CV 3/5 - 0.2913692129525421 - For avg. expected 557088.855
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 17 - CV 4/5 - 0.2991038065422569 - For avg. expected 518570.95
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 17 - CV 5/5 - 0.2845089909580006 - For avg. expected 486506.11
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 17 - 0.3024109701024452 time elapsed: 16.645349979400635
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 18 - CV 1/5 - 0.3077851255947379 - For avg. expected 510918.135
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 18 - CV 2/5 - 0.3326997697045027 - For avg. expected 528990.12
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 18 - CV 3/5 - 0.2929377783869607 - For avg. expected 557088.855
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 18 - CV 4/5 - 0.30131041658432495 - For avg. expected 518570.95
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 18 - CV 5/5 - 0.28683418808457867 - For avg. expected 486506.11
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 18 - 0.30431345567102097 time elapsed: 16.387813568115234
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 19 - CV 1/5 - 0.30883461205727 - For avg. expected 510918.135
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 19 - CV 2/5 - 0.33419195947397 - For avg. expected 528990.12
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 19 - CV 3/5 - 0.29015137655176626 - For avg. expected 557088.855
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 19 - CV 4/5 - 0.3000581431741528 - For avg. expected 518570.95
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 19 - CV 5/5 - 0.2877199273787809 - For avg. expected 486506.11
+Distance: <class 'model.distance.MinkowskiDistance'> - k: 19 - 0.304191203727188 time elapsed: 16.299856662750244
+Distance: <class 'model.distance.CosineDistance'> - k: 15 - CV 1/5 - 0.31156732071386783 - For avg. expected 510918.135
+Distance: <class 'model.distance.CosineDistance'> - k: 15 - CV 2/5 - 0.33362739529529856 - For avg. expected 528990.12
+Distance: <class 'model.distance.CosineDistance'> - k: 15 - CV 3/5 - 0.2978682182328698 - For avg. expected 557088.855
+Distance: <class 'model.distance.CosineDistance'> - k: 15 - CV 4/5 - 0.29659033335407214 - For avg. expected 518570.95
+Distance: <class 'model.distance.CosineDistance'> - k: 15 - CV 5/5 - 0.28327675180818174 - For avg. expected 486506.11
+Distance: <class 'model.distance.CosineDistance'> - k: 15 - 0.30458600388085805 time elapsed: 50.38451838493347
+Distance: <class 'model.distance.CosineDistance'> - k: 16 - CV 1/5 - 0.3109071667977984 - For avg. expected 510918.135
+Distance: <class 'model.distance.CosineDistance'> - k: 16 - CV 2/5 - 0.3325992368957877 - For avg. expected 528990.12
+Distance: <class 'model.distance.CosineDistance'> - k: 16 - CV 3/5 - 0.29696475291830743 - For avg. expected 557088.855
+Distance: <class 'model.distance.CosineDistance'> - k: 16 - CV 4/5 - 0.2942006256581425 - For avg. expected 518570.95
+Distance: <class 'model.distance.CosineDistance'> - k: 16 - CV 5/5 - 0.28194278231625264 - For avg. expected 486506.11
+Distance: <class 'model.distance.CosineDistance'> - k: 16 - 0.3033229129172577 time elapsed: 44.849767446517944
+Distance: <class 'model.distance.CosineDistance'> - k: 17 - CV 1/5 - 0.3105181757691893 - For avg. expected 510918.135
+Distance: <class 'model.distance.CosineDistance'> - k: 17 - CV 2/5 - 0.3294733681058433 - For avg. expected 528990.12
+Distance: <class 'model.distance.CosineDistance'> - k: 17 - CV 3/5 - 0.29805121311635774 - For avg. expected 557088.855
+Distance: <class 'model.distance.CosineDistance'> - k: 17 - CV 4/5 - 0.2993013771850383 - For avg. expected 518570.95
+Distance: <class 'model.distance.CosineDistance'> - k: 17 - CV 5/5 - 0.28209615627063156 - For avg. expected 486506.11
+Distance: <class 'model.distance.CosineDistance'> - k: 17 - 0.303888058089412 time elapsed: 25.022462606430054
+Distance: <class 'model.distance.CosineDistance'> - k: 18 - CV 1/5 - 0.3104014226209451 - For avg. expected 510918.135
+Distance: <class 'model.distance.CosineDistance'> - k: 18 - CV 2/5 - 0.3304278304949089 - For avg. expected 528990.12
+Distance: <class 'model.distance.CosineDistance'> - k: 18 - CV 3/5 - 0.2982524661060555 - For avg. expected 557088.855
+Distance: <class 'model.distance.CosineDistance'> - k: 18 - CV 4/5 - 0.2977665745262961 - For avg. expected 518570.95
+Distance: <class 'model.distance.CosineDistance'> - k: 18 - CV 5/5 - 0.2841744769737873 - For avg. expected 486506.11
+Distance: <class 'model.distance.CosineDistance'> - k: 18 - 0.3042045541443986 time elapsed: 25.88339400291443
+Distance: <class 'model.distance.CosineDistance'> - k: 19 - CV 1/5 - 0.30927310914261763 - For avg. expected 510918.135
+Distance: <class 'model.distance.CosineDistance'> - k: 19 - CV 2/5 - 0.3329813311817837 - For avg. expected 528990.12
+Distance: <class 'model.distance.CosineDistance'> - k: 19 - CV 3/5 - 0.2997795347148788 - For avg. expected 557088.855
+Distance: <class 'model.distance.CosineDistance'> - k: 19 - CV 4/5 - 0.2993357069232788 - For avg. expected 518570.95
+Distance: <class 'model.distance.CosineDistance'> - k: 19 - CV 5/5 - 0.2853955692299802 - For avg. expected 486506.11
+Distance: <class 'model.distance.CosineDistance'> - k: 19 - 0.3053530502385079 time elapsed: 26.39406943321228
+Distance: <class 'model.distance.ManhattanDistance'> - k: 15 - CV 1/5 - 0.30191425959204865 - For avg. expected 510918.135
+Distance: <class 'model.distance.ManhattanDistance'> - k: 15 - CV 2/5 - 0.29233169196072173 - For avg. expected 528990.12
+Distance: <class 'model.distance.ManhattanDistance'> - k: 15 - CV 3/5 - 0.2724375887697206 - For avg. expected 557088.855
+Distance: <class 'model.distance.ManhattanDistance'> - k: 15 - CV 4/5 - 0.2806918902768063 - For avg. expected 518570.95
+Distance: <class 'model.distance.ManhattanDistance'> - k: 15 - CV 5/5 - 0.27887186935961017 - For avg. expected 486506.11
+Distance: <class 'model.distance.ManhattanDistance'> - k: 15 - 0.28524945999178153 time elapsed: 1.4940240383148193
+Distance: <class 'model.distance.ManhattanDistance'> - k: 16 - CV 1/5 - 0.30131179344956255 - For avg. expected 510918.135
+Distance: <class 'model.distance.ManhattanDistance'> - k: 16 - CV 2/5 - 0.29371960270577313 - For avg. expected 528990.12
+Distance: <class 'model.distance.ManhattanDistance'> - k: 16 - CV 3/5 - 0.2727097678074222 - For avg. expected 557088.855
+Distance: <class 'model.distance.ManhattanDistance'> - k: 16 - CV 4/5 - 0.2816747845365156 - For avg. expected 518570.95
+Distance: <class 'model.distance.ManhattanDistance'> - k: 16 - CV 5/5 - 0.27625860353312 - For avg. expected 486506.11
+Distance: <class 'model.distance.ManhattanDistance'> - k: 16 - 0.28513491040647876 time elapsed: 1.5573182106018066
+Distance: <class 'model.distance.ManhattanDistance'> - k: 17 - CV 1/5 - 0.29888459567635633 - For avg. expected 510918.135
+Distance: <class 'model.distance.ManhattanDistance'> - k: 17 - CV 2/5 - 0.2952433063917715 - For avg. expected 528990.12
+Distance: <class 'model.distance.ManhattanDistance'> - k: 17 - CV 3/5 - 0.27226900077264926 - For avg. expected 557088.855
+Distance: <class 'model.distance.ManhattanDistance'> - k: 17 - CV 4/5 - 0.28291641088676545 - For avg. expected 518570.95
+Distance: <class 'model.distance.ManhattanDistance'> - k: 17 - CV 5/5 - 0.27710220952580883 - For avg. expected 486506.11
+Distance: <class 'model.distance.ManhattanDistance'> - k: 17 - 0.28528310465067025 time elapsed: 1.536344051361084
+Distance: <class 'model.distance.ManhattanDistance'> - k: 18 - CV 1/5 - 0.29555636060899726 - For avg. expected 510918.135
+Distance: <class 'model.distance.ManhattanDistance'> - k: 18 - CV 2/5 - 0.2914957421838963 - For avg. expected 528990.12
+Distance: <class 'model.distance.ManhattanDistance'> - k: 18 - CV 3/5 - 0.2717323340662297 - For avg. expected 557088.855
+Distance: <class 'model.distance.ManhattanDistance'> - k: 18 - CV 4/5 - 0.2827558298006994 - For avg. expected 518570.95
+Distance: <class 'model.distance.ManhattanDistance'> - k: 18 - CV 5/5 - 0.27472999418478 - For avg. expected 486506.11
+Distance: <class 'model.distance.ManhattanDistance'> - k: 18 - 0.2832540521689205 time elapsed: 1.4562127590179443
+Distance: <class 'model.distance.ManhattanDistance'> - k: 19 - CV 1/5 - 0.29745380417808365 - For avg. expected 510918.135
+Distance: <class 'model.distance.ManhattanDistance'> - k: 19 - CV 2/5 - 0.29342805525930993 - For avg. expected 528990.12
+Distance: <class 'model.distance.ManhattanDistance'> - k: 19 - CV 3/5 - 0.273259018374372 - For avg. expected 557088.855
+Distance: <class 'model.distance.ManhattanDistance'> - k: 19 - CV 4/5 - 0.28438266668655693 - For avg. expected 518570.95
+Distance: <class 'model.distance.ManhattanDistance'> - k: 19 - CV 5/5 - 0.275916655939041 - For avg. expected 486506.11
+Distance: <class 'model.distance.ManhattanDistance'> - k: 19 - 0.28488804008747276 time elapsed: 1.4562156200408936
+Distance: <class 'model.distance.EuclideanDistance'> - k: 15 - CV 1/5 - 0.3023847096317324 - For avg. expected 510918.135
+Distance: <class 'model.distance.EuclideanDistance'> - k: 15 - CV 2/5 - 0.3189689485648396 - For avg. expected 528990.12
+Distance: <class 'model.distance.EuclideanDistance'> - k: 15 - CV 3/5 - 0.2867575747671454 - For avg. expected 557088.855
+Distance: <class 'model.distance.EuclideanDistance'> - k: 15 - CV 4/5 - 0.29534528229314627 - For avg. expected 518570.95
+Distance: <class 'model.distance.EuclideanDistance'> - k: 15 - CV 5/5 - 0.27906517535296804 - For avg. expected 486506.11
+Distance: <class 'model.distance.EuclideanDistance'> - k: 15 - 0.2965043381219663 time elapsed: 3.0029187202453613
+Distance: <class 'model.distance.EuclideanDistance'> - k: 16 - CV 1/5 - 0.29998637255655025 - For avg. expected 510918.135
+Distance: <class 'model.distance.EuclideanDistance'> - k: 16 - CV 2/5 - 0.3179237780665542 - For avg. expected 528990.12
+Distance: <class 'model.distance.EuclideanDistance'> - k: 16 - CV 3/5 - 0.2860814321224736 - For avg. expected 557088.855
+Distance: <class 'model.distance.EuclideanDistance'> - k: 16 - CV 4/5 - 0.294729076365159 - For avg. expected 518570.95
+Distance: <class 'model.distance.EuclideanDistance'> - k: 16 - CV 5/5 - 0.2787231548575952 - For avg. expected 486506.11
+Distance: <class 'model.distance.EuclideanDistance'> - k: 16 - 0.2954887627936664 time elapsed: 2.9799537658691406
+Distance: <class 'model.distance.EuclideanDistance'> - k: 17 - CV 1/5 - 0.29964050698806344 - For avg. expected 510918.135
+Distance: <class 'model.distance.EuclideanDistance'> - k: 17 - CV 2/5 - 0.31743858859883045 - For avg. expected 528990.12
+Distance: <class 'model.distance.EuclideanDistance'> - k: 17 - CV 3/5 - 0.28412449906749915 - For avg. expected 557088.855
+Distance: <class 'model.distance.EuclideanDistance'> - k: 17 - CV 4/5 - 0.29246272921551697 - For avg. expected 518570.95
+Distance: <class 'model.distance.EuclideanDistance'> - k: 17 - CV 5/5 - 0.2807652744112019 - For avg. expected 486506.11
+Distance: <class 'model.distance.EuclideanDistance'> - k: 17 - 0.29488631965622236 time elapsed: 3.0972583293914795
+Distance: <class 'model.distance.EuclideanDistance'> - k: 18 - CV 1/5 - 0.2986679355565882 - For avg. expected 510918.135
+Distance: <class 'model.distance.EuclideanDistance'> - k: 18 - CV 2/5 - 0.3177286362137124 - For avg. expected 528990.12
+Distance: <class 'model.distance.EuclideanDistance'> - k: 18 - CV 3/5 - 0.2837387812222703 - For avg. expected 557088.855
+Distance: <class 'model.distance.EuclideanDistance'> - k: 18 - CV 4/5 - 0.29267823870367016 - For avg. expected 518570.95
+Distance: <class 'model.distance.EuclideanDistance'> - k: 18 - CV 5/5 - 0.2812877297364302 - For avg. expected 486506.11
+Distance: <class 'model.distance.EuclideanDistance'> - k: 18 - 0.29482026428653424 time elapsed: 2.9770939350128174
+Distance: <class 'model.distance.EuclideanDistance'> - k: 19 - CV 1/5 - 0.30282501394514566 - For avg. expected 510918.135
+Distance: <class 'model.distance.EuclideanDistance'> - k: 19 - CV 2/5 - 0.3203536062719038 - For avg. expected 528990.12
+Distance: <class 'model.distance.EuclideanDistance'> - k: 19 - CV 3/5 - 0.28641286744132044 - For avg. expected 557088.855
+Distance: <class 'model.distance.EuclideanDistance'> - k: 19 - CV 4/5 - 0.2926618245105036 - For avg. expected 518570.95
+Distance: <class 'model.distance.EuclideanDistance'> - k: 19 - CV 5/5 - 0.28410803708171767 - For avg. expected 486506.11
+Distance: <class 'model.distance.EuclideanDistance'> - k: 19 - 0.2972722698501183 time elapsed: 3.0184645652770996
